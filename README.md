@@ -1,6 +1,6 @@
 # mysqlfileCHBRenamer
 PERL SHELL batch modify Chinese database and server, Chinese file name, old system iteration
-[] img://https://github.com/Liberxue/mysqlfileCHBRenamer/blob/master/ui.png?raw=true
+![img](ui.png)
 ```
 find ./ -name '*.mp4' >mp4ls.txt
 open( FH, "mp4ls.txt" ); #打开文件
